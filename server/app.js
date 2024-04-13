@@ -31,4 +31,4 @@
 // app.use("/comp", comp);
 // app.use("/job", job);
 
-app.listen(PORT, () => log(`Career Clash server on PORT: ${PORT}`));
+//app.listen(PORT, () => log(`Career Clash server on PORT: ${PORT}`));
